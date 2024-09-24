@@ -1,5 +1,5 @@
-## Olá tudo bem? 
-## Eu sou o Davi 😎
+## Olá, bão de mais da conta? 
+## Eu sou o Davi 
 
 Minhas linguagens de programação são:
 
@@ -8,7 +8,7 @@ Minhas linguagens de programação são:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-Minhas IDE`s são:
+Minhas IDE`s favoritas são:
 
 ![Intellij Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
 ![Clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white) 
