@@ -4,12 +4,12 @@
 
 ## Minhas linguagens de programação são:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00AA00?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-00AA00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Minhas IDE`s utilizadas são:
 
-![Intellij Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-00AA00?style=for-the-badge&logo=intellij-idea&logoColor=white) 
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-00AA00?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
