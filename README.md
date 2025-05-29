@@ -6,10 +6,8 @@
 
 ![Python](https://img.shields.io/badge/Python-00AA00?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-00AA00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00AA00?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-00AA00?style=for-the-badge&logo=javascript&logoColor=white)
 
-## Minhas IDE`s utilizadas são:
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-00AA00?style=for-the-badge&logo=intellij-idea&logoColor=white) 
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-00AA00?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
