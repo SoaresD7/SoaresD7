@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&left=true&vCenter=true&width=1000&lines=Oi!+Eai+,+eu+sou+o+Davi!+👋;Bem+Vindo+ao+meu+GitHub!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&left=true&vCenter=true&width=1000&lines=Hi!+How+Are+You+?+,+I+am+Davi!+👋;Welcome+to+my+GitHub!)
 
 ## Minhas linguagens de programação são:
 
