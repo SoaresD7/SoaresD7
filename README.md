@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&left=true&vCenter=true&width=1000&lines=Hi!+How+Are+You+?+,+I+Am+Davi!+👨‍🍳;Welcome+To+My+GitHub!)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&left=true&vCenter=true&width=1000&lines=Oi!+,+Tudo+Bem+?+,+Eu+Sou+O+Davi!+👨‍🍳;Bem+Vindo+Ao+Meu+GitHub!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&left=true&vCenter=true&width=1000&lines=Hi!+How+Are+You+?+,+I+Am+Davi!+👨‍🍳;Welcome+To+My+GitHub+👋)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&left=true&vCenter=true&width=1000&lines=Oi!+,+Tudo+Bem+?+,+Eu+Sou+O+Davi!+👨‍🍳;Bem+Vindo+Ao+Meu+GitHub+👋)
 
 ## My programming languages: | Minhas linguagens de programação:
 
