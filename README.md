@@ -10,5 +10,10 @@
 ![C++](https://img.shields.io/badge/C++-00AA00?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00AA00?style=for-the-badge&logo=javascript&logoColor=white)
 
+## 📊 Linguagens mais usadas:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresD7&layout=compact&theme=radical&bg_color=00000000&text_color=00FF00&title_color=00FF00)
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
